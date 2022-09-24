@@ -1,0 +1,19 @@
+{
+  "name": "Pesrank model",
+  "description": "pesrank model",
+  "keywords": ["pesrank"],
+  "env": {
+    "WHO": {
+      "description": "me",
+      "value": "me"
+     },
+    "WEBSERVER_PORT": {
+      "description": "port",
+      "value": "8501",
+      "required": false
+     } 
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
